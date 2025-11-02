@@ -8,5 +8,5 @@ This is the common documentation repository for the Clarabel solver.  It contain
 * For the Julia implementation, go [here](https://github.com/oxfordcontrol/Clarabel.jl).
 * For the C and C++ interfaces to the Rust implementation, go [here](https://github.com/oxfordcontrol/Clarabel.cpp).
 * For the R interface to the Rust implementation, go [here](https://github.com/oxfordcontrol/clarabel-r).
-
+* For the GPU implementation and use, go [here](https://github.com/oxfordcontrol/Clarabel.jl/tree/CuClarabel).
 

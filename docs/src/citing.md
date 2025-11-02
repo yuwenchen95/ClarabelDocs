@@ -12,6 +12,18 @@ If you find Clarabel useful in your work, please consider citing one or more of 
 ```
 A preprint is available [here](http://arxiv.org/abs/2405.12762).
 
+If you use GPU-based Clarabel to solve large-scale problems:
+```
+@misc{CuClarabel,
+      title={CuClarabel: GPU Acceleration for a Conic Optimization Solver}, 
+      author={Yuwen Chen and Danny Tse and Parth Nobel and Paul Goulart and Stephen Boyd},
+      year={2024},
+      eprint={2412.19027},
+      archivePrefix={arXiv},
+      primaryClass={math.OC}
+}
+```
+A preprint is available [here](https://arxiv.org/abs/2412.19027).
 
 If you use Clarabel to solve SDPs with decomposable structure:
 

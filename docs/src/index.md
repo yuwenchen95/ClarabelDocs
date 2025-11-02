@@ -19,12 +19,13 @@ Clarabel is available in either a native [Julia](https://julialang.org/) or a na
 * __Infeasibility detection__: Infeasible problems are detected using using a homogeneous embedding technique.
 * __Arbitrary precision types__: You can solve problems with any floating point precision, e.g. Float32 or Julia's BigFloat type in Julia and f32 or f64 types in Rust.
 * __Open Source__: Our code is available on GitHub and distributed under the Apache 2.0 License.   The Julia implementation is [here](https://github.com/oxfordcontrol/Clarabel.jl).   The Rust implementation and Python interface is [here](https://github.com/oxfordcontrol/Clarabel.rs).
+* __GPU acceleration__: GPU-accelerated Clarabel is now available in Julia, with support also in Python. The GPU implementation is [here](https://github.com/oxfordcontrol/Clarabel.jl/tree/CuClarabel).
 
 ## Credits
 
 The following people are involved in the development of Clarabel:
 * [Paul Goulart](http://users.ox.ac.uk/~engs1373/) (main development, maths and algorithms)
-* Yuwen Chen (maths and algorithms)
+* [Yuwen Chen](https://yuwenchen95.github.io/) (main development, maths and algorithms)
 All contributors are affiliated with the Control Group of the [Department of Engineering Science](http://www.eng.ox.ac.uk/) at the [University of Oxford](http://ox.ac.uk/).
 
 If this project is useful for your work please consider

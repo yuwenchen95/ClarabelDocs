@@ -61,6 +61,7 @@ pages = [
           "Chordal Decomposition" => "user_guide_chordal.md",
           "Problem Data Updates" => "user_guide_data_updating.md",
           "Linear System Solvers" => "user_guide_linsolvers.md",
+          "GPU acceleration" => "user_guide_gpu.md"
       ],
       #"Method" => "method.md",
       "Examples" => examples,
